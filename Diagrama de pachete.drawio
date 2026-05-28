@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36">
+  <diagram name="Pagină-1" id="UV80r0XmP_v93uopvCCJ">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s3ROQkE-Csa-ksDRlqu1-1" parent="1" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" value="business_logic" vertex="1">
+          <mxGeometry height="80" width="150" x="350" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s3ROQkE-Csa-ksDRlqu1-2" parent="1" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" value="gui" vertex="1">
+          <mxGeometry height="80" width="150" x="150" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="s3ROQkE-Csa-ksDRlqu1-3" parent="1" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" value="model" vertex="1">
+          <mxGeometry height="80" width="150" x="540" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="s3ROQkE-Csa-ksDRlqu1-5" edge="1" parent="1" source="s3ROQkE-Csa-ksDRlqu1-1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=150;entryDy=30;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="s3ROQkE-Csa-ksDRlqu1-2" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+            <mxPoint x="410" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3ROQkE-Csa-ksDRlqu1-6" edge="1" parent="1" source="s3ROQkE-Csa-ksDRlqu1-1" style="html=1;labelBackgroundColor=#ffffff;jettySize=auto;orthogonalLoop=1;fontSize=14;rounded=0;jumpStyle=gap;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=open;dashed=1;strokeWidth=1;entryX=0;entryY=0;entryDx=40;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=150;exitDy=55;exitPerimeter=0;" target="s3ROQkE-Csa-ksDRlqu1-3" value="">
+          <mxGeometry height="48" relative="1" width="48" as="geometry">
+            <mxPoint x="460" y="280" as="sourcePoint" />
+            <mxPoint x="508" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3ROQkE-Csa-ksDRlqu1-7" edge="1" parent="1" source="s3ROQkE-Csa-ksDRlqu1-2" style="html=1;labelBackgroundColor=#ffffff;jettySize=auto;orthogonalLoop=1;fontSize=14;rounded=0;jumpStyle=gap;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=open;dashed=1;strokeWidth=1;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;exitX=0;exitY=0;exitDx=40;exitDy=0;exitPerimeter=0;" target="s3ROQkE-Csa-ksDRlqu1-1" value="">
+          <mxGeometry height="48" relative="1" width="48" as="geometry">
+            <mxPoint x="180" y="248" as="sourcePoint" />
+            <mxPoint x="228" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
